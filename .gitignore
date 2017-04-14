@@ -27,3 +27,5 @@ nbdist/
 *.jar
 *.war
 *.ear
+*.Class
+*.class
